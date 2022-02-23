@@ -1,0 +1,20 @@
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\bin\Debug\ahid_demo_csharp_vs17.exe.config
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\bin\Debug\ahid_demo_csharp_vs17.exe
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\bin\Debug\ahid_demo_csharp_vs17.pdb
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.Properties.Resources.resources
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.csproj.GenerateResource.cache
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.exe
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.pdb
+C:\Users\ENES\Desktop\ahid_demo_csharp_vs17\obj\Debug\AHidLib.Samples.Csharp.Form1.resources
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\bin\Debug\ahid_demo_csharp_vs17.exe.config
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\bin\Debug\ahid_demo_csharp_vs17.exe
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\bin\Debug\ahid_demo_csharp_vs17.pdb
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\AHidLib.Samples.Csharp.Form1.resources
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.Properties.Resources.resources
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.csproj.GenerateResource.cache
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.exe
+C:\Users\ENES\Desktop\USB HID EXAMPLE\ahid_demo_csharp_vs17\obj\Debug\ahid_demo_csharp_vs17.pdb
