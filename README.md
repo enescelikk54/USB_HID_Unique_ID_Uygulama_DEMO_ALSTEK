@@ -3,4 +3,4 @@
 ||GUI tarafı Visual Studio C# forms ile yazılmıştır.
 ||USB Human Interface Cihazın VID , PID bilgileri ekranda görünmektedir.
 ||stm32f103 Bluepill kartı ekrana veri basmaktadır.
-||Veri gonderme islemi de Gui de mevcuttur.
+||Veri gonderme islemi Gui de mevcuttur.
